@@ -13,4 +13,3 @@ var duoshuoQuery = {short_name:"lastavengers"};
 	</script>
 <!-- 多说公共JS代码 end -->  
 <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="lastavenger.github.io{{ page.url }}"></div>
-
